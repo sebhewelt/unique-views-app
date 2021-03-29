@@ -1,4 +1,4 @@
-# To the developer who is going to review this app
+# To the developer who is going to review this app 👋
 
 Choices I made while preparing the solution:
 
@@ -12,7 +12,11 @@ If I had some more time, I think would:
 - Cover the user flows with a bunch of E2E tests
 - Add some styles to that 90s-looking table grid. :))
 
----
+# To launch the app locally
+
+ `yarn && yarn start`
+
+# create-react-app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
