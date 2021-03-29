@@ -1,0 +1,13 @@
+.dropzone {
+  margin: 1rem 0;
+  height: 200px;
+  border: 5px dashed lightcoral;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.error {
+  color: salmon;
+}
