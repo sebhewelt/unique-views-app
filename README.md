@@ -1,4 +1,4 @@
-# To the developer who is going to review this app
+# To the developer who is going to review this app 👋
 
 Choices I made while preparing the solution:
 
@@ -6,13 +6,17 @@ Choices I made while preparing the solution:
 - When parsing the log file, I assumed a 100% match for a path uniqueness ("/path" and "path" as two different paths)
 - The requirements for the table were minimum (always sorted by the second column), therefore I created the table fully myself. If I had to build a complex table, I would use a ready-made library, like `react-table`.
 
-If I had some more time, I think would:
+If I had some more time, I think I would:
 
 - Improve UX (loading, success, error boundaries)
 - Cover the user flows with a bunch of E2E tests
 - Add some styles to that 90s-looking table grid. :))
 
----
+# To launch the app locally
+
+ `yarn && yarn start`
+
+# create-react-app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
